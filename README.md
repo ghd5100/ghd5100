@@ -1,8 +1,9 @@
+
+
+https://capsule-render.vercel.app/api?type=blur&height=310&color=gradient&text=Lim%20%it&fontAlign=51&animation=fadeIn&textBg=false&reversal=false
+
+
 ## Hi there 👋
-
-**ghd5100/ghd5100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
