@@ -1,6 +1,6 @@
 
 
-https://capsule-render.vercel.app/api?type=blur&height=310&color=gradient&text=Lim%20%it&fontAlign=51&animation=fadeIn&textBg=false&reversal=false
+[](https://capsule-render.vercel.app/api?type=blur&height=310&color=gradient&text=Lim%20%it&fontAlign=51&animation=fadeIn&textBg=false&reversal=false)
 
 
 ## Hi there 👋
